@@ -4,5 +4,5 @@ resource "azurerm_resource_group" "rg" {
   
   tags = {
     "env = prod"
-}
+  }
 }
